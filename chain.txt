@@ -1,0 +1,7 @@
+19
+Wood 1 8 1 0
+Steel 1 8 3 0
+Plastic 1 9 1 0
+Table 1 2 3 1
+Desk 2 2 3 1
+Leg 1 2 1 1
